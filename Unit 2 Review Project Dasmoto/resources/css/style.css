@@ -1,0 +1,42 @@
+/* Fonts */
+h1, h2, h3, header, body, p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+h3 {
+  font-size: 24px;
+}
+p {
+  font-size: 18px;
+}
+
+/* Header Banner */
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+
+}
+
+/* h2 banners with background colors  */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+.frames h2 {
+  background-color: lightcoral;
+}
+.paint h2 {
+  background-color: skyblue;
+}
+
+/* highlighting the item price at end of product description */
+.price {
+  font-weight: bold;
+  color: blue;
+}
